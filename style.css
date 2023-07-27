@@ -58,3 +58,17 @@
 
 
 }
+
+.flash{
+    border:7px solid white;
+    background-color: aquamarine;
+    box-shadow: 0 5px 10px white ;
+
+}
+
+.flash2{
+    border:7px solid white;
+    background-color: aquamarine;
+    box-shadow: 0 5px 10px white ;
+
+}
